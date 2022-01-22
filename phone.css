@@ -1,0 +1,33 @@
+
+.dis li:before{content: "\2714"; 
+
+color:red;
+
+ } 
+.content{
+				
+				
+				display:grid;
+	grid-template-columns:1fr 1fr 1fr;
+				
+				
+}
+.flex1{
+				
+			
+				
+}
+.flex2{
+			
+
+				
+}
+.flex3{
+				
+				
+				
+}
+.ptn{
+				
+				width
+}
